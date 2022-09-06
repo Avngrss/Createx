@@ -1,4 +1,4 @@
-## Createx [id] : avngrss.github.io/createx/ Pages
+## Createx  : avngrss.github.io/createx/   Pages
 - Многостраничный сайт
 - Использование SCSS
 - Есть мобильная адаптация
