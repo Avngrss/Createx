@@ -1,0 +1,74 @@
+.subscribe__container {
+  position: relative;
+  background-color: #f8dad5;
+}
+.subscribe__container::before {
+  position: absolute;
+  content: url(../img/indexImg/subscribe/illustration-1.png);
+  bottom: 0;
+  right: 0;
+}
+.subscribe__container::after {
+  position: absolute;
+  content: url(../img/indexImg/subscribe/illustration.png);
+  bottom: 0;
+  left: 0;
+}
+
+.subscribe__info {
+  padding: 120px 0 8px;
+}
+.subscribe__info p {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #1e212c;
+}
+.subscribe__info h2 {
+  margin: 0 auto;
+  font-weight: 900;
+  font-size: 46px;
+  line-height: 130%;
+  color: #1e212c;
+  max-width: 810px;
+  max-height: 120px;
+}
+
+.subscribe__form {
+  margin-top: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+  padding-bottom: 180px;
+}
+.subscribe__form input {
+  width: 422px;
+  height: 52px;
+  background: #ffffff;
+  border: 1px solid #d7dadd;
+  border-radius: 4px;
+}
+.subscribe__form input::-moz-placeholder {
+  padding: 13px 0 13px 16px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
+  color: #9a9ca5;
+}
+.subscribe__form input:-ms-input-placeholder {
+  padding: 13px 0 13px 16px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
+  color: #9a9ca5;
+}
+.subscribe__form input::placeholder {
+  padding: 13px 0 13px 16px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
+  color: #9a9ca5;
+}
