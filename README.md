@@ -1,4 +1,4 @@
-## Createx  [id]: http://example.com/ "Необязательная подсказка"
+## Createx  : https://avngrss.github.io/Createx/ Pages
 - Многостраничный сайт
 - Использование SCSS
 - Есть мобильная адаптация
