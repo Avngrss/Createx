@@ -529,7 +529,7 @@ body {
   transition: 0.5s;
 }
 .menu__item:hover {
-  color: orange;
+  color: white;
 }
 
 .header__registration {

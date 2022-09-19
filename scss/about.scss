@@ -1,5 +1,4 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap");
-@import "mixins.scss";
 @import "subscribe.scss";
 @import "footer.scss";
 
@@ -499,6 +498,9 @@ body {
   }
   .subscribe__info h2 {
     font-size: 25px;
+  }
+  .school__text {
+    max-height: none;
   }
 }
 @media (max-width: 320px) {
