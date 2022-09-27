@@ -1,5 +1,4 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap");
 .subscribe__container {
   position: relative;
   background-color: #f8dad5;
@@ -274,6 +273,7 @@ body {
   font-size: 16px;
   line-height: 160%;
   color: #424551;
+  margin-top: 50px;
 }
 
 .school__btn-block {
@@ -291,7 +291,7 @@ body {
   letter-spacing: 0.5px;
   background: linear-gradient(55.95deg, #ff3f3a 0%, #f75e05 100%);
   -webkit-background-clip: text;
-          background-clip: text;
+  background-clip: text;
   color: #ff3f3a;
 }
 .about__btn:hover {
