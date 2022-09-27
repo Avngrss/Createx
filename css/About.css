@@ -433,6 +433,7 @@ body {
   line-height: 150%;
   color: #1e212c;
   margin-bottom: 8px;
+  text-align: center;
 }
 
 .value__item-text {
