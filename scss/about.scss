@@ -438,8 +438,9 @@ body {
   .school__row {
     flex-direction: column;
     gap: 40px;
-    & .school__text-info {
-      margin-top: 50px;
+    &.school__text-info {
+      margin-top: 70px;
+      margin-bottom: 30px;
     }
   }
   .info__block {
